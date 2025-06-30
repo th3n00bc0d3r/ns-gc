@@ -1,0 +1,40 @@
+{
+  "name": "ns-gc",
+  "version": "1.0.0",
+  "description": "CLI tool to generate NativeScript Angular components and services",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "ns-gc": "./bin/ns-create-component.js"
+  },
+  "keywords": [
+    "nativescript",
+    "angular",
+    "cli",
+    "component",
+    "service",
+    "generator",
+    "ns-gc"
+  ],
+  "author": "Muhammad Bilal <bilalfromlahore@gmail.com>",
+  "contributors": [
+    {
+      "name": "Muhammad Muneeb Tahir",
+      "email": "muneeb233@hotmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/th3n00bc0d3r/ns-gc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/th3n00bc0d3r/ns-gc/issues"
+  },
+  "homepage": "https://github.com/th3n00bc0d3r/ns-gc#readme",
+  "scripts": {
+    "link": "npm link",
+    "lint": "echo \"No lint configured\"",
+    "test": "echo \"No tests available\""
+  }
+}
