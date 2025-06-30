@@ -1,0 +1,13 @@
+# Ignore dev stuff
+node_modules/
+*.log
+*.md
+.vscode/
+.git/
+.gitignore
+.npmignore
+test/
+__tests__/
+coverage/
+tsconfig.json
+.env

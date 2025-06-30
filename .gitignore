@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+dist/
+coverage/
+
+# OS files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Runtime
+.env
+*.tsbuildinfo
